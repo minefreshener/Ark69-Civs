@@ -21,9 +21,9 @@
 				
 		"outerColor": [208, 21, 195],
 		"innerColor": [159,8,149],
-		"uniqueName": "The White City",
-		"uniqueText": "Starts with [Rationalism] adopted, Starts with [Piety] adopted, Farm and Trading Post tiles provide yield without assigned population",
-		"uniques": ["Starts with [Rationalism] adopted", "Starts with [Piety] adopted"],
-		"cities": ["Minas Tirith","Osgiliath","Ithilien","Cair Andros","Henneth Annun","Anfalas","Morthond","Ringlo Vale","Andrast","Linhir","Tarnost","Ethring"]
-	},
+		"uniqueName": "Unfathomable Dominion",
+		"uniqueText": "Starts with [Rationalism] adopted, Starts with [Piety] adopted, Farm and Trading Post tiles provide yield without assigned population, Gain a free [Founder] belief <upon founding a Religion>",
+		"uniques": ["Starts with [Rationalism] adopted", "Starts with [Piety] adopted", "Gain a free [Founder] belief <upon founding a Religion>"],
+		"cities": ["A-Dolkur","Rayateni","Melarat","Tichlarbe"]
+	}
 ]
