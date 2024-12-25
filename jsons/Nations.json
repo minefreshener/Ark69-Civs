@@ -22,8 +22,8 @@
 		"outerColor": [208, 21, 195],
 		"innerColor": [159,8,149],
 		"uniqueName": "Unfathomable Dominion",
-		"uniqueText": "Starts with [Rationalism] adopted, Starts with [Piety] adopted, Farm and Trading Post tiles provide yield without assigned population, Gain a free [Founder] belief <upon founding a Religion>",
-		"uniques": ["Starts with [Rationalism] adopted", "Starts with [Piety] adopted", "Gain a free [Founder] belief <upon founding a Religion>"],
+		"uniqueText": "Starts with [Rationalism] adopted, Starts with [Piety] adopted, Farm and Trading Post tiles provide yield without assigned population, Gain a free [Follower] belief <upon founding a Religion>",
+		"uniques": ["Starts with [Rationalism] adopted", "Starts with [Piety] adopted", "Gain a free [Follower] belief <upon founding a Religion>"],
 		"cities": ["A-Dolkur","Rayateni","Melarat","Tichlarbe"]
 	}
 ]
