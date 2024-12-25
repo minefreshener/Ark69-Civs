@@ -75,7 +75,7 @@
             {
                 "name": "Secularism",
                 "uniques": [
-                "Sell [Faith] buildings [in all cities]", "[{non-air} {Military}] units gain the [Secularism] promotion"
+                "[+1 Science] from all [Faith] buildings"
                 ],
                 "row": 1,
                 "column": 2
