@@ -1,1 +1,123 @@
-
+[
+      {
+        "name": "Piety",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 10,
+            "Scientific": 0,
+	    "Religious": 30
+        },
+        "uniques": [
+            "Gain enough Faith for [50]% of a Great Prophet",
+	    "Only available <after founding a Pantheon>",
+        ],
+        "policies": [
+            {
+                "name": "Organized Religion",
+                "uniques": [
+		    "[+1 Happiness] from all [Faith] buildings"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Monasticism",
+                "uniques": ["Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]"],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Theocracy",
+                "uniques": ["[50]% of excess happiness converted to [Faith]"],
+                "requires": ["Organized Religion"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Religious Orders",
+                "uniques": [
+                    "[Faith] cost of purchasing items in cities [-25]%"
+                ],
+                "requires": ["Organized Religion"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Inquisition",
+                "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
+                "requires": ["Monasticism", "Religious Orders"],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "Piety Complete",
+                "uniques": [
+                    "Gain a free [Follower] belief", "[+3 Gold, +3 Culture] [in all cities] <within [3] tiles of a [Holy site]>"]
+            }
+        ]
+    },
+      {
+        "name": "Rationalism",
+        "era": "Renaissance era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 20,
+            "Domination": 0,
+            "Scientific": 30,
+	    "Religious": 0
+        },
+        "uniques": ["[+1 Gold] from every [Merchant]", "[+1 Science] from every [Scientist]", "[+1 Production] from every [Engineer]"],
+        "policies": [
+            {
+                "name": "Secularism",
+                "uniques": [
+                "Sell [Faith] buildings [in all cities]", "[{non-air} {Military}] units gain the [Secularism] promotion"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Humanism",
+                "uniques": [
+                    "[+1 Happiness] from all [Science] buildings"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Free Thought",
+                "uniques": [
+                    "[+33]% Great Person generation [in all cities]", "[+2 Culture, +2 Science] from every [National Wonder]", 
+                ],
+                "requires": ["Secularism"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Sovereignty",
+                "uniques": ["[50]% of excess happiness converted to [Culture]"],
+                "requires": ["Humanism"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Scientific Revolution",
+                "uniques": ["[+20]% [Science] [in all cities] <during a Golden Age>", "Empire enters golden age"],
+                "requires": ["Free Thought"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Rationalism Complete",
+                "uniques": [
+                    "[1] Free Technologies",
+                    "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
+        ]
+    }
+]
