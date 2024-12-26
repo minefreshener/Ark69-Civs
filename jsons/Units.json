@@ -62,7 +62,7 @@
 		{
 		"name": "Havic Hwacha",
 		"unitType": "Siege",
-		"replaces": "Trabuchet",
+		"replaces": "Trebuchet",
 		"uniqueTo": "Hav Dolkur",
 		"movement": 2,
 		"strength": 15,
