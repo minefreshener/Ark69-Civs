@@ -110,5 +110,5 @@
 		"uniques": ["[+1 Gold] per [4] population [in this city]"],
 		"requiredBuilding": "Artisanal Workshop",
 		"requiredTech": "Industrialization"
-	},
+	}
 ]
