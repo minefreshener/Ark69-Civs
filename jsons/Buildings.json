@@ -1,16 +1,4 @@
 [
-	{
-		"name": "Alms House",
-                "replaces": "Shrine",
-		"uniqueTo": "Hav Dolkur",
-		"cost": 60,
-		"food": 1,
-		"faith": 1,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-	        "percentStatBonus": {"food": 10},
-		"requiredTech": "Bronze Working"
-	},
 		{
 		"name": "Lakasi Sailaine",
 		"replaces": "Library",
