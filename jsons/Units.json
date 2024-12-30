@@ -261,7 +261,7 @@
 		"movement": 4,
 		"strength": 22,
 		"cost": 135,
-		"requiredTech": "banking",
+		"requiredTech": "Printing Press",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
