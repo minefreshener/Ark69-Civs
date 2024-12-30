@@ -10,4 +10,51 @@
 		"uniques": ["[+1 Science] per [2] population [in this city]", "[+1 Faith] per [4] population [in this city] <after discovering [Mathematics]>"],
 		"requiredTech": "Writing"
 	},
+	{
+	"name": "Citadel 0f Dumas",
+	"culture": 3,
+	"isWonder": true,
+	"greatPersonPoints": {"Great General": 2},
+	"cityStrength": 15,
+	"cityHealth": 75,
+        "uniques": ["[+15]% Production when constructing [Military] units [in all cities]","[+30]% Production when constructing [Military] units [in this city]",
+	"[+1 Production] from [Fort] tiles [in this city]","[+1 Culture] from [Fort] tiles [in this city]","[+2 Production] from [Citadel] tiles [in this city]",
+	"[+2 Culture] from [Citadel] tiles [in this city]","[+2 Faith] from [Citadel] tiles [in this city]","[+2 Science] from [Citadel] tiles [in this city]"],
+	"requiredTech": "Replaceable Parts"
+	},
+	{
+	"name": "Magistrate Hall",
+	"production": 1,
+	"gold": 2,
+	"isWonder": true,
+	"cityHealth": 15,
+        "uniques": ["Must be next to [Jungle]","[+1 Food] from [Jungle] tiles [in this city]","[+1 Gold] from [Jungle] tiles [in this city]"],
+	"requiredTech": "Metal Casting"
+	},
+	{
+	"name": "Mausoleum of Malukran",
+	"culture": 4,
+	"science": 4,
+	"isWonder": true,
+	"greatPersonPoints": {"Great Scientist": 2},
+	"greatPersonPoints": {"Great Engineer": 1},
+	"specialistSlots": {"Engineer": 1},
+        "uniques": ["Provides [1] [Uranium]","[+1 Science] from [Uranium] tiles [in this city]","[+1 Gold] from [Uranium] tiles [in this city]"],
+	"requiredTech": "Nuclear Fission"
+	},
+	{
+	"name": "Palace of Turamang",
+	"gold": 3,
+	"isWonder": true,
+        "uniques": ["Must be next to [Desert]","[+1 Gold] from [Desert] tiles [in all cities]","[+2 Culture] <for [The Turamangids] Civilizations>"],
+	"requiredTech": "Masonry"
+	},
+	{
+	"name": "Court of Salt",
+	"food": 3,
+	"isWonder": true,
+	"greatPersonPoints": {"Great Engineer": 2},
+        "uniques": ["Must be next to [Salt]","[+2 Culture] from [Salt] tiles [in all cities]"],
+	"requiredTech": "The Wheel"
+	}
 ]
