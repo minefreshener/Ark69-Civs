@@ -4,7 +4,7 @@
 		"leaderName": "Amoga",
 		"adjective": ["Havic"]
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "placeholder text",
 		"startIntroPart2": "Placeholder text",
@@ -24,6 +24,111 @@
 		"uniqueName": "Unfathomable Dominion",
 		"uniqueText": "Starts with [Rationalism] adopted, Starts with [Piety] adopted, Farm and Trading Post tiles provide yield without assigned population, Gain a free [Follower] belief <upon founding a Religion>",
 		"uniques": ["Starts with [Rationalism] adopted", "Starts with [Piety] adopted", "Gain a free [Follower] belief <upon founding a Religion>"],
-		"cities": ["A-Dolkur","Rayateni","Melarat","Tichlarbe"]
+		"cities": ["A-Dolkur","Rayateni","Melarat","Tichlarbe","A-Gulvaf","Ihiminem"]
+	},
+				{
+		"name": "The Turamangids",
+		"leaderName": "Turamang The Contemptuous",
+		"adjective": ["Turamangid"]
+		"startBias": ["desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [255,255,102],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Heart of the desert",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Globalization]>","[-2 Culture] [in all cities] <after discovering [Globalization]>", "Double quantity of [Oil] produced","[+33]% Strength <within [2] tiles of a [Oasis]>"],
+		"cities": ["Al-Tura","Al-Kemeya","Al-Bakrala","Tefulu","Samobiya","Smolaya","Al-Amoga"]
+	},
+	{
+		"name": "The Bosarids",
+		"leaderName": "Bosaru",
+		"adjective": ["Bosarid"]
+		"startBias": ["Desert","Flood Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [83, 0, 208],
+		"innerColor": [109, 2, 0],
+		"uniqueName": "Land Of Thieves",
+		"uniques": ["Gain an extra spy <upon entering the [Medieval Era]>","Gain an extra spy <upon entering the [Industrial Era]>","[-25]% enemy spy effectiveness [in all cities]"],
+		"cities": ["Al-Bosariya","Dumas","Karapiya","Polmisiya","Bomuma","Mahavak","Rifamla","Parelaya"]
+	},
+	{
+		"name": "The Tewids",
+		"leaderName": "Tewi",
+		"adjective": ["Tewid"]
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [255,255,102],
+		"innerColor": [51,25,0],
+		"uniqueName": "The Great Hope",
+		"uniques": ["[+2 Culture] from each Trade Route","[+1] Sight <for [Ranged] units>"],
+		"cities": ["Al-Tewiyun","Tevsberg","Perinoviya","Hawasen","Makulberg","kavgisberg","Vaktalisberg","Feret"]
+	},
+	{
+		"name": "The Kaponids",
+		"leaderName": "Dald Al-Kapon I",
+		"adjective": ["Kapon"]
+		"startBias": ["Desert","Wheat"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [51,25,0],
+		"innerColor": [61, 0, 109],
+		"uniqueName": "Comfortable With Chaos",
+		"uniques": ["Double quantity of [Oil] produced","[+1 Culture] from every [Strategic resource]","[-15]% Unhappiness from [Population] [in all cities]",
+		"[-15]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"cities": ["Kapon","Lakmatacha","Porokalitiya","Makavak","Tiresh","Polmili","Karapiya","Rifamla","Bomuma"]
 	}
 ]
