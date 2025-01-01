@@ -32,6 +32,15 @@
 		"requiredTech": "Gunpowder"
 	},
 	{
+		"name": "Mustering Hall",
+		"replaces": "Armory",
+		"uniqueTo": "Fehk",
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Barracks",
+		"uniques": ["All newly-trained units [in this city] receive the [Home Sweet Home] promotion","New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	},
+	{
 	"name": "Citadel 0f Dumas",
 	"culture": 3,
 	"isWonder": true,
