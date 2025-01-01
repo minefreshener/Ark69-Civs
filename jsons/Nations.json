@@ -107,7 +107,7 @@
 	{
 		"name": "The Kaponids",
 		"leaderName": "Dald Al-Kapon I",
-		"adjective": ["Kapon"]
+		"adjective": ["Kaponid"]
 		"startBias": ["Desert","Wheat"],
 		"preferredVictoryType": "Diplomatic",
 		
@@ -130,5 +130,59 @@
 		"uniques": ["Double quantity of [Oil] produced","[+1 Culture] from every [Strategic resource]","[-15]% Unhappiness from [Population] [in all cities]",
 		"[-15]% Unhappiness from [Population] [in all cities] <when at war>"],
 		"cities": ["Kapon","Lakmatacha","Porokalitiya","Makavak","Tiresh","Polmili","Karapiya","Rifamla","Bomuma"]
+	},
+		{
+		"name": "The City Of Fehk",
+		"leaderName": "Furuwir II",
+		"adjective": ["Fehkan"]
+		"startBias": ["Desert","Hill"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [51,25,0],
+		"innerColor": [61, 0, 109],
+		"uniqueName": "City of Salt",
+		"uniques": ["Double quantity of [Salt] produced","[+1 Culture] from every [Salt]","[-50]% City-State Influence degradation",
+			"Military Units gifted from City-States start with [+15] XP","[+1 Culture] from every specialist [in all cities]"],
+		"cities": ["Fehk","Ijistan"]
+	},
+			{
+		"name": "Zvongombe",
+		"leaderName": "Nwamu Abaka",
+		"adjective": ["Zvongombean"]
+		"startBias": ["Plains","Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [51,25,0],
+		"innerColor": [61, 0, 109],
+		"uniqueName": "Steadfast Defense",
+		"uniques": ["Military Units gifted from City-States start with [+30] XP","[+1 Production] from every specialist [in all cities]",
+			"[+10]% Strength <within [2] tiles of a [City center]>","[+33]% City Strength from defensive buildings"],
+		"cities": ["Zvongombe"]
 	}
 ]
