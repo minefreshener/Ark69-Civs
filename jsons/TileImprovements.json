@@ -24,7 +24,7 @@
 	},
 		{
 		"name": "Iji",
-		"uniqueTo": "Fekh",
+		"uniqueTo": "Fehk",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 8,
 		"food": 1,
