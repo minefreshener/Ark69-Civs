@@ -267,5 +267,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "throw"
 		//Camel Archer should have no penalty attacking cities
+	},
+		{
+		"name": "Lion Warrior",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Zvongombe",
+		"movement": 3,
+		"strength": 28,
+		"cost": 190,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
