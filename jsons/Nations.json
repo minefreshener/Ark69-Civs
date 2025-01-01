@@ -132,7 +132,7 @@
 		"cities": ["Kapon","Lakmatacha","Porokalitiya","Makavak","Tiresh","Polmili","Karapiya","Rifamla","Bomuma"]
 	},
 		{
-		"name": "The City Of Fehk",
+		"name": "Fehk",
 		"leaderName": "Furuwir II",
 		"adjective": ["Fehkan"]
 		"startBias": ["Desert","Hill"],
