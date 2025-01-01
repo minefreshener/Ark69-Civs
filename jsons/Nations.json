@@ -151,8 +151,8 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [51,25,0],
-		"innerColor": [61, 0, 109],
+		"outerColor": [139,32,23],
+		"innerColor": [255,255,255],
 		"uniqueName": "City of Salt",
 		"uniques": ["Double quantity of [Salt] produced","[+1 Culture] from every [Salt]","[-50]% City-State Influence degradation",
 			"Military Units gifted from City-States start with [+15] XP","[+1 Culture] from every specialist [in all cities]"],
@@ -178,8 +178,8 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [51,25,0],
-		"innerColor": [61, 0, 109],
+		"outerColor": [61, 0, 109],
+		"innerColor": [134,238,214],
 		"uniqueName": "Steadfast Defense",
 		"uniques": ["Military Units gifted from City-States start with [+30] XP","[+1 Production] from every specialist [in all cities]",
 			"[+10]% Strength <within [2] tiles of a [City center]>","[+33]% City Strength from defensive buildings"],
