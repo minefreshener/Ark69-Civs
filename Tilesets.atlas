@@ -1,1 +1,89 @@
-
+Tilesets.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Iji
+  rotate: false
+  xy: 76, 250
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Militant
+  rotate: false
+  xy: 1509, 979
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camel Cavalry
+  rotate: false
+  xy: 1174, 1908
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cataphract Camel
+  rotate: false
+  xy: 1822, 1914
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Basa'a
+  rotate: false
+  xy: 580, 954
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tewid Horseman
+  rotate: false
+  xy: 865, 1497
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sasrama
+  rotate: false
+  xy: 865, 1497
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Lion Warrior
+  rotate: false
+  xy: 721, 1534
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cavalry
+  rotate: false
+  xy: 357, 1439
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Blue Army
+  rotate: false
+  xy: 958, 1890
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Highwayman (KAP)
+  rotate: false
+  xy: 501, 1360
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Highwayman (BOS)
+  rotate: false
+  xy: 501, 1360
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
