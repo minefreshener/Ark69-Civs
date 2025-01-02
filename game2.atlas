@@ -1,1 +1,26 @@
-
+game2.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Bore Hole
+  rotate: false
+  xy: 1084, 45
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bore Hole
+  rotate: false
+  xy: 1084, 45
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bore Hole
+  rotate: false
+  xy: 4, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
