@@ -45,6 +45,18 @@
 		"requiredTech": "Calendar"
 	},
 	{
+		"name": "Temple Of Gu'un",
+		"replaces": "Temple",
+		"uniqueTo": "The Bosarids",
+		"maintenance": 0,
+		"uniques": ["Doubles Gold given to enemy if city is captured"],
+		"faith": 2,
+		"gold": 1,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	{
 		"name": "gunpowder Mill",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
