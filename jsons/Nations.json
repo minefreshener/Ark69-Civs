@@ -76,7 +76,7 @@
 		"innerColor": [109, 2, 0],
 		"uniqueName": "Land Of Thieves",
 		"uniques": ["Gain an extra spy <upon entering the [Medieval Era]>","Gain an extra spy <upon entering the [Industrial Era]>","[-25]% enemy spy effectiveness [in all cities]"],
-		"cities": ["Al-Bosariya","Dumas","Karapiya","Polmisiya","Bomuma","Mahavak","Rifamla","Parelaya"]
+		"cities": ["Al-Bosariya","Mahavak","Karapiya","Polmisiya","Bomuma","Dumas","Rifamla","Parelaya"]
 	},
 	{
 		"name": "The Tewids",
@@ -183,6 +183,85 @@
 		"uniqueName": "Steadfast Defense",
 		"uniques": ["Military Units gifted from City-States start with [+30] XP","[+1 Production] from every specialist [in all cities]",
 			"[+10]% Strength <within [2] tiles of a [City center]>","[+33]% City Strength from defensive buildings"],
-		"cities": ["Zvongombe"]
+		"cities": ["Zvongombe","Agujaya"]
+	},
+		{
+		"name": "The Sefurjel",
+		"leaderName": "Kesunfawe I",
+		"adjective": ["Sefurjel"]
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [255, 56, 56],
+		"innerColor": [255,255,75],
+		"uniqueName": "Bounty Of The Grasslands",
+		"uniques": ["[+2 Culture] from every [Stable]","[+1 Food] from every [Plains]","[+1 Culture] [in all cities] <with [1] to [2] neighboring [Plains] tiles>",
+			"[+2 Culture] [in all cities] <with [3] to [6] neighboring [Plains] tiles>"],
+		"cities": ["Safawa","Jinala'e","Agujaya","Gonofo","Nakahame","Ifinuma","Bomuma","Golapa","Dumas"]
+	},
+		{
+		"name": "The Marlian Empire",
+		"leaderName": "Ji Nmarlu",
+		"adjective": ["Marlian"]
+		"startBias": ["Plains","River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [90, 0, 10],
+		"innerColor": [255,168,168],
+		"uniqueName": "Swift Arm Of War",
+		"uniques": ["Double quantity of [Horses] produced","[+2 Production] from every [Strategic resource]","[+1] Sight <for [{Military} {Land}] units>"],
+		"cities": ["Kreso","Bomuma","Gorolamu","Halakamu","Mikreshko","Hawoso","Makotoyo","Polombe","Yinawu'a"]
+	},
+		{
+		"name": "The Dawurjel",
+		"leaderName": "Maralit Ifanishesh",
+		"adjective": ["Dawurjel"]
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "placeholder text",
+		"startIntroPart2": "Placeholder text",
+		
+		"declaringWar": "placeholder text",
+		"attacked": "placeholder text",
+		"defeated": "placeholder text",
+		"introduction": "placeholder text",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Yes?!",
+		
+		"tradeRequest": "Want to trade?",
+				
+		"outerColor": [255,255,75],
+		"innerColor": [249, 247, 3],
+		"uniqueName": "Songs Of The Lake-men",
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]","[+2 Culture] from [Lakes] tiles [in this city]"],
+		"cities": ["Wasalawu","Ikonoba","Tawalika","Seyawu'o","Mazafa'e","Irniowe","Mikreshko","Hawatashe","Dolberg"]
 	}
 ]
