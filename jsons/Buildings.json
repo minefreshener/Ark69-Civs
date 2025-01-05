@@ -123,7 +123,7 @@
 		"uniqueTo": "The Sefurjel",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
-		"uniques": ["[+1 Culture] per [2] population [in this city]","[+1 CUlture] per [3] population [in this city] <after discovering [Philosophy]>",
+		"uniques": ["[+1 Culture] per [2] population [in this city]","[+1 Culture] per [3] population [in this city] <after discovering [Philosophy]>",
 		"[+1 Science] per [4] population [in this city] <after discovering [Education]>"],
 		"requiredTech": "Writing"
 	},
@@ -171,7 +171,6 @@
 	"name": "Citadel 0f Dumas",
 	"culture": 3,
 	"isWonder": true,
-	"greatPersonPoints": {"Great General": 2},
 	"cityStrength": 15,
 	"cityHealth": 75,
         "uniques": ["[+15]% Production when constructing [Military] units [in all cities]","[+30]% Production when constructing [Military] units [in this city]",
