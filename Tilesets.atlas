@@ -24,6 +24,13 @@ TileSets/HexaRealm/Units/Camel Cavalry
   orig: 64, 70
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Camel Rifleman
+  rotate: false
+  xy: 1174, 1908
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Cataphract Camel
   rotate: false
   xy: 1822, 1914
