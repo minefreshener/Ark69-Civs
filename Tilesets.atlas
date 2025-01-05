@@ -10,6 +10,69 @@ TileSets/HexaRealm/Tiles/Iji
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Shanty Town
+  rotate: false
+  xy: 1174, 1764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Medieval era
+  rotate: false
+  xy: 1174, 1764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Renaissance era
+  rotate: false
+  xy: 1102, 1786
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Industrial era
+  rotate: false
+  xy: 1102, 1786
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Modern era
+  rotate: false
+  xy: 1390, 1776
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Atomic era
+  rotate: false
+  xy: 1390, 1776
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Information era
+  rotate: false
+  xy: 1390, 1776
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Future era
+  rotate: false
+  xy: 1606, 1772
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Shanty Town-Pillaged
+  rotate: false
+  xy: 1750, 1778
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Militant
   rotate: false
   xy: 1509, 979
@@ -92,5 +155,19 @@ TileSets/HexaRealm/Units/Highwayman (BOS)
   xy: 501, 1360
   size: 64, 63
   orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Western Alliance Cavalry
+  rotate: false
+  xy: 1297, 1385
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Honsir
+  rotate: false
+  xy: 580, 616
+  size: 64, 68
+  orig: 64, 68
   offset: 0, 0
   index: -1
