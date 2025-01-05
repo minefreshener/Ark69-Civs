@@ -133,7 +133,7 @@
 		"uniques": ["[+100]% Strength <vs cities> <when attacking>"],
 		"attackSound": "tankshot"
 	},
-			{
+	{
 		"name": "Basa'a",
 		"unitType": "Mounted",
 		"replaces": "Great General",
@@ -235,6 +235,36 @@
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Honsir",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Fehk",
+		"movement": 4,
+		"strength": 30,
+		"cost": 200,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Consumes [1] [Iron]"],
+		"promotions": ["Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Warrior Druid",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Fehk",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
+		"attackSound": "metalhit"
+	},
 		{
 		"name": "Lion Warrior",
 		"unitType": "Gunpowder",
@@ -247,5 +277,23 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Western Alliance Cavalry",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Zvongombe",
+		"movement": 4,
+		"strength": 12,
+		"range": 1,
+		"rangedStrength": 15,
+		"cost": 65,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
 	}
 ]
