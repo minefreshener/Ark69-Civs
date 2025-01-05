@@ -105,7 +105,7 @@
 		"cityHealth": 80,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion"],
+			"All newly-trained [Military] units [in this city] receive the [Morale] promotion"],
 		"requiredTech": "Iron Working"
 	},
 	{
@@ -114,8 +114,58 @@
 		"uniqueTo": "Fehk",
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Barracks",
-		"uniques": ["All newly-trained [Land] units [in this city] receive the [Home Sweet Home] promotion","New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["All newly-trained [Military] units [in this city] receive the [Home Sweet Home] promotion","New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Steel"
+	},
+	{
+		"name": "Witch Doctor's Hut",
+		"replaces": "Library",
+		"uniqueTo": "The Sefurjel",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"uniques": ["[+1 Culture] per [2] population [in this city]","[+1 CUlture] per [3] population [in this city] <after discovering [Philosophy]>",
+		"[+1 Science] per [4] population [in this city] <after discovering [Education]>"],
+		"requiredTech": "Writing"
+	},
+		{
+		"name": "Pallisades",
+		"replaces": "Walls",
+		"uniqueTo": "The Sefurjel",
+		"cost": 25,
+		"cityStrength": 3,
+		"cityHealth": 20,
+		"hurryCostModifier": 0,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Militia Hall",
+		"replaces": "Barracks",
+		"uniqueTo": "The Marlian Empire",
+		"cost": 25,
+		"hurryCostModifier": 0,
+		"maintenance": 1,
+		"uniques": ["[+33]% Production when constructing [Military] units [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Golden Tower",
+		"replaces": "Walls",
+		"uniqueTo": "The Dawurjel",
+		"cityStrength": 10,
+		"cityHealth": 15,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Water Distillery",
+		"replaces": "Aqueduct",
+		"uniqueTo": "The Dawurjel",
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[60]% Food is carried over after population increases [in this city]","Must be on [Fresh Water]"],
+		"requiredTech": "Engineering"
 	},
 	{
 	"name": "Citadel 0f Dumas",
