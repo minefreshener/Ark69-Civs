@@ -66,6 +66,22 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-15]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
+	{
+		"name": "Noble Longbowman",
+		"unitType": "Archery",
+		"range": 2,
+		"movement": 2,
+		"strength": 17,
+		"rangedStrength": 19,
+		"replaces": "Crossbowman",
+		"uniqueTo": "The Tewids",
+		"cost": 140,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Extended Range"],
+		"attackSound": "arrow"
+	},
 		{
 		"name": "Anokrofeu",
 		"unitType": "Mounted",
