@@ -96,6 +96,19 @@
 		"requiredTech": "Gunpowder"
 	},
 	{
+		"name": "Walls Of Zvongombe",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Zvongombe",
+		"cost": 125,
+		"culture": 1,
+		"cityStrength": 15,
+		"cityHealth": 80,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
+			"All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion"],
+		"requiredTech": "Iron Working"
+	},
+	{
 		"name": "Mustering Hall",
 		"replaces": "Armory",
 		"uniqueTo": "Fehk",
