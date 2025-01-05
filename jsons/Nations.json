@@ -258,7 +258,7 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [255,255,75],
+		"outerColor": [38, 98, 255],
 		"innerColor": [249, 247, 3],
 		"uniqueName": "Songs Of The Lake-men",
 		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]","[+2 Culture] from [Lakes] tiles [in this city]"],
