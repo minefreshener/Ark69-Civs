@@ -40,7 +40,7 @@
 		"turnsToBuild": 10,
 		"production": 1,
 		"food": -1,
-		"techRequired": "Engineering",
+		"techRequired": "Civil Service",
 		"uniques": ["Gives a defensive bonus of [10]%","Tile provides yield without assigned population","Must be next to [City Center]"],
 		"shortcutKey": "O"
 	}
