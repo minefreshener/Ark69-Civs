@@ -36,7 +36,7 @@
 	{
 		"name": "Shanty Town",
 		"uniqueTo": "The Kaponids",
-		"terrainsCanBeBuiltOn": ["Oasis"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 10,
 		"production": 1,
 		"food": -1,
