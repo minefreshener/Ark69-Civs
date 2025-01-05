@@ -171,3 +171,17 @@ TileSets/HexaRealm/Units/Honsir
   orig: 64, 68
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Warrior Druid
+  rotate: false
+  xy: 861, 1221
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Noble Longbowman
+  rotate: false
+  xy: 1153, 1448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
