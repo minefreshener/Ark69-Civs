@@ -101,6 +101,13 @@ TileSets/HexaRealm/Units/Cataphract Camel
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Rhino Knight
+  rotate: false
+  xy: 1822, 1914
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Basa'a
   rotate: false
   xy: 580, 954
@@ -158,6 +165,13 @@ TileSets/HexaRealm/Units/Highwayman (BOS)
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Western Alliance Cavalry
+  rotate: false
+  xy: 1297, 1385
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rhino Cavalry
   rotate: false
   xy: 1297, 1385
   size: 64, 63
