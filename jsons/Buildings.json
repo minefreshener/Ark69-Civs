@@ -33,6 +33,18 @@
 		"requiredTech": "Engineering",
 	},
 	{
+		"name": "Salt Refinery",
+		"replaces": "Stone Works",
+		"uniqueTo": "The Turamangids",
+		"happiness": 1,
+		"food": 2,
+		"requiredNearbyImprovedResources": ["Salt"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Production] from [Salt] tiles [in this city]"],
+		"requiredTech": "Calendar"
+	},
+	{
 		"name": "gunpowder Mill",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
