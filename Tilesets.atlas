@@ -136,6 +136,13 @@ TileSets/HexaRealm/Units/Lion Warrior
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Tribal Sergeant
+  rotate: false
+  xy: 721, 1534
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Cavalry
   rotate: false
   xy: 357, 1439
