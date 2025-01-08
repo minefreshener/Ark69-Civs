@@ -15,7 +15,7 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Trapping",
 		"terrainsCanBeFoundOn": ["Plains"], // Hill only if plains or grassland
-		"production": 2,
+		"production": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"culture": 1},
 		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4},
