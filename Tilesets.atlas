@@ -73,6 +73,62 @@ TileSets/HexaRealm/Tiles/Shanty Town-Pillaged
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Elephants
+  rotate: false
+  xy: 573, 1319
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Elephants+Camp
+  rotate: false
+  xy: 645, 1342
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Elephants+Camp-Industrial era
+  rotate: false
+  xy: 717, 1342
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Elephants+Camp-Pillaged
+  rotate: false
+  xy: 793, 1680
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rhinos
+  rotate: false
+  xy: 364, 933
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rhinos+Pasture
+  rotate: false
+  xy: 364, 869
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rhinos+Pasture-Industrial era
+  rotate: false
+  xy: 364, 805
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rhinos+Pasture-Pillaged
+  rotate: false
+  xy: 1174, 1836
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Militant
   rotate: false
   xy: 1509, 979
