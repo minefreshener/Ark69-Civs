@@ -16,7 +16,7 @@
 		"revealedBy": "Trapping",
 		"terrainsCanBeFoundOn": ["Plains"], // Hill only if plains or grassland
 		"production": 2,
-		"improvement": "Camp",
+		"improvement": "Pasture",
 		"improvementStats": {"culture": 1},
 		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
