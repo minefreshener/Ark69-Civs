@@ -286,7 +286,7 @@
 		
 		"tradeRequest": "Want to trade?",
 				
-		"outerColor": [57,49,49],
+		"outerColor": [57,122,52],
 		"innerColor": [55,55,58],
 		"uniqueName": "The Value of Peace",
 		"uniques": ["[+2 Culture] from [Jungle] tiles [in this city]","[+2 Culture] from [Ivory] tiles [in this city]","Double quantity of [Coal] produced",
