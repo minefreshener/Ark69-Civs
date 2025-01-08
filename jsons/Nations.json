@@ -289,9 +289,8 @@
 		"outerColor": [57,122,52],
 		"innerColor": [55,55,58],
 		"uniqueName": "The Value of Peace",
-		"uniques": ["[+2 Culture] from [Jungle] tiles [in this city]","[+2 Culture] from [Ivory] tiles [in this city]","Double quantity of [Coal] produced",
-			"Double quantity of [Oil] produced","[+2 Food] from every [Granary]",
-			"Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."],
+		"uniques": ["[+2 Culture] from [Jungle] tiles [in this city]","Double quantity of [Coal] produced","Double quantity of [Oil] produced",
+			"Double quantity of [Elephants] produced","Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."],
 		"cities": ["Kaliurudan","Molazashakurie","Dumas","Makserulie","Fesugetowie","Safalawie","Badirie","Zafulimu","Towaekush"]
 	},
 				{
