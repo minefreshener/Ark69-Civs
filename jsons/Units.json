@@ -513,5 +513,20 @@
 		"uniques": ["Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Tribal Militia",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Keldura",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <after discovering [Civil Service]>","[+25]% Strength <after discovering [Metallurgy]>",
+			"[+25]% Strength <after discovering [Industrialization]>","[+33]% Strength <after discovering [Replaceable Parts]>",
+			"[+25]% Strength <after discovering [Plastics]>","[+33]% Strength <after discovering [Mobile Tactics]>",
+			"[+1] Movement <after discovering [Mobile Tactics]>"],
+		"attackSound": "metalhit"
 	}
 ]
