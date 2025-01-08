@@ -1,1 +1,24 @@
-
+[
+  	{
+		"name": "Elephants",
+		"resourceType": "Strategic",
+		"revealedBy": "Trapping",
+		"terrainsCanBeFoundOn": ["Grassland","Jungle"], // Hill only if plains or grassland
+		"production": 2,
+		"improvement": "Camp",
+		"improvementStats": {"production": 1},
+		"majorDepositAmount": {"sparse": 1, "default": 3, "abundant": 3},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+	},
+  {
+		"name": "Rhinos",
+		"resourceType": "Strategic",
+		"revealedBy": "Trapping",
+		"terrainsCanBeFoundOn": ["Plains"], // Hill only if plains or grassland
+		"production": 2,
+		"improvement": "Camp",
+		"improvementStats": {"culture": 1},
+		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+	}
+]
