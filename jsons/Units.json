@@ -105,6 +105,7 @@
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["[+25]% Strength <after discovering [Mobile Tactics]>"],
 		"attackSound": "shot"
 	},
 	{
@@ -116,7 +117,7 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Iron]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Consumes [1] [Iron]","[+25]% Strength <after discovering [Lasers]>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -511,7 +512,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Consumes [1] [Iron]",
 			"[+33]% Strength <after discovering [Military Science]>"],
-		"promotions": ["Formation I"],
+		"promotions": ["Formation I","Formation II"],
 		"upgradesTo": "Armored Car",
 		"obsoleteTech": "Combustion",
 		"attackSound": "horse"
@@ -688,10 +689,64 @@
 		"strength": 10,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <after discovering [Civil Service]>","[+25]% Strength <after discovering [Metallurgy]>",
+		"uniques": ["[+25]% Strength <after discovering [Civil Service]>","[+25]% Strength <after discovering [Metallurgy]>",
 			"[+25]% Strength <after discovering [Industrialization]>","[+33]% Strength <after discovering [Replaceable Parts]>",
 			"[+25]% Strength <after discovering [Plastics]>","[+33]% Strength <after discovering [Mobile Tactics]>",
 			"[+1] Movement <after discovering [Mobile Tactics]>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Friendly Felasian",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo": "Keldura",
+		"movement": 2,
+		"strength": 63,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+				"uniques": ["Can build [Land] improvements on tiles","[+25]% Strength <after discovering [Telecommunications]>",
+					"[+1] Sight <after discovering [Telecommunications]>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Elephant Longbowman",
+		"unitType": "Mounted",
+		"replaces": "Elephant Archer",
+		"uniqueTo": "Keldura",
+		"movement": 3,
+		"strength": 22,
+		"range": 2,
+		"rangedStrength": 20,
+		"cost": 150,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Elephant Musketeer",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Elephants",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles","[+25]% Strength <after discovering [Machinery]>"],
+		"promotions": ["Extended Range"],
+		"hurryCostModifier": 20,
+		"attackSound": "elephant"
+	},
+	{
+		"name": "VAT 11",
+		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "Keldura",
+		"movement": 4,
+		"strength": 55,
+		"rangedStrength": 60,
+		"range": 2,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"requiredResource": "Oil",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+33]% Strength <vs cities> <when attacking>",
+			"[+25]% Strength <after discovering [Combustion]>","Consumes [1] [Iron]"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "tankshot"
 	}
 ]
