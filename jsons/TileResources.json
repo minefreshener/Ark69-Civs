@@ -7,6 +7,10 @@
 		"production": 2,
 		"improvement": "Camp",
 		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [35] <in [Jungle] Regions>",
+			"Generated with weight [15] <in [Hybrid] Regions>",
+			"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
+		"Minor deposits generated with weight [10] <in [Grassland] tiles> <in tiles without [Jungle]>",],
 		"majorDepositAmount": {"sparse": 1, "default": 3, "abundant": 3},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
@@ -18,6 +22,9 @@
 		"production": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"culture": 1},
+	  	"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+		"Doesn't generate naturally <in [{Plains} {Hill}] tiles>",
+		"Minor deposits generated with weight [20] <in [Jungle] tiles>",],
 		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	}
