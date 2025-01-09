@@ -129,6 +129,62 @@ TileSets/HexaRealm/Tiles/Rhinos+Pasture-Pillaged
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Armored Chariot
+  rotate: false
+  xy: 112, 533
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot Gunner
+  rotate: false
+  xy: 1462, 1858
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horseless Chariot
+  rotate: false
+  xy: 220, 689
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Archer
+  rotate: false
+  xy: 1081, 1287
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battle Elephant
+  rotate: false
+  xy: 580, 884
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Gunner
+  rotate: false
+  xy: 220, 1265
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Rifleman
+  rotate: false
+  xy: 1081, 1287
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Bazooka
+  rotate: false
+  xy: 670, 1918
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Militant
   rotate: false
   xy: 1509, 979
