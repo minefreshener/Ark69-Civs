@@ -263,7 +263,7 @@
 		"outerColor": [38, 98, 255],
 		"innerColor": [249, 247, 3],
 		"uniqueName": "Songs Of The Lake-men",
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]","[+2 Culture] from [Lakes] tiles [in this city]"],
+		"uniques": ["[+2 Food] from [Lakes] tiles [in all cities]","[+2 Culture] from [Lakes] tiles [in all cities]"],
 		"cities": ["Wasalawu","Ikonoba","Tawalika","Seyawu'o","Mazafa'e","Irniowe","Mikreshko","Hawatashe","Dolberg"]
 	},
 	{
@@ -289,7 +289,7 @@
 		"outerColor": [57,122,52],
 		"innerColor": [55,55,58],
 		"uniqueName": "The Value of Peace",
-		"uniques": ["[+2 Culture] from [Jungle] tiles [in this city]","Double quantity of [Coal] produced","Double quantity of [Oil] produced",
+		"uniques": ["[+2 Culture] from [Jungle] tiles [in all cities]","Double quantity of [Coal] produced","Double quantity of [Oil] produced",
 			"Double quantity of [Elephants] produced","Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."],
 		"cities": ["Kaliurudan","Molazashakurie","Dumas","Makserulie","Fesugetowie","Safalawie","Badirie","Zafulimu","Towaekush"]
 	},
@@ -316,7 +316,7 @@
 		"outerColor": [72,162,58],
 		"innerColor": [216,69,53],
 		"uniqueName": "Lords of the Wastes",
-		"uniques": ["[+1 Production] from [Desert] tiles [in this city]","[+1 Food] from [Jungle] tiles [in this city]",
+		"uniques": ["[+1 Production] from [Desert] tiles [in all cities]","[+1 Food] from [Jungle] tiles [in all cities]",
 			"[-25]% enemy spy effectiveness [in all cities]"],
 		"cities": ["Marazliha","Teshikie","Tewucha","Hakuokos","Paliklon","Tewozlon","Tesiw","Teverez","Hadolaue"]
 	},
@@ -343,7 +343,7 @@
 		"outerColor": [228,43,43],
 		"innerColor": [34,31,31],
 		"uniqueName": "Land of Stone and Steel",
-		"uniques": ["[+3 Production] from [Mountain] tiles [in this city]","Double quantity of [Iron] produced",
+		"uniques": ["[+3 Production] from [Mountain] tiles [in all cities]","Double quantity of [Iron] produced",
 			"New [Military] units start with [20] Experience [in all cities]","[-25]% Production when constructing [Military] units [in all cities]",
 		"Land units may cross [Mountain] tiles after the first [Great General] is earned"],
 		"cities": ["Marauka","Sevelebade","Sawavabade","Tomaoaka","Badirie","Temekos","Maktekos","Tawafos","Towaekush"]
@@ -371,7 +371,7 @@
 		"outerColor": [222,159,33],
 		"innerColor": [132,132,130],
 		"uniqueName": "People of The Mountains",
-		"uniques": ["[+2 Food] from [Mountain] tiles [in this city]","[+2 Culture] from [Mountain] tiles [in this city]",
+		"uniques": ["[+2 Food] from [Mountain] tiles [in all cities]","[+2 Culture] from [Mountain] tiles [in all cities]",
 			"Land units may cross [Mountain] tiles after the first [Great Artist] is earned","[+15]% Strength <within [1] tiles of a [Mountain]>"],
 		"cities": ["Kewie","A-Keldur","Zafulimu","Mesaonewe","Makserulie","Sawaie","Prisnanatie","Kiesowu","Kewu"]
 	},
