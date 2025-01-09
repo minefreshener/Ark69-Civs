@@ -192,6 +192,20 @@ TileSets/HexaRealm/Units/Militant
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Friendly Felasian
+  rotate: false
+  xy: 1657, 1257
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Friendly Felasian-Modern Era
+  rotate: false
+  xy: 1509, 979
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Armored Car
   rotate: false
   xy: 1729, 1121
@@ -328,6 +342,76 @@ TileSets/HexaRealm/Units/Warrior Druid
 TileSets/HexaRealm/Units/Noble Longbowman
   rotate: false
   xy: 1153, 1448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia
+  rotate: false
+  xy: 1441, 1392
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Ancient Era
+  rotate: false
+  xy: 1441, 1392
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Classical Era
+  rotate: false
+  xy: 721, 1534
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Medieval Era
+  rotate: false
+  xy: 1441, 1328
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Renaissance Era
+  rotate: false
+  xy: 937, 1391
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Industrial Era
+  rotate: false
+  xy: 937, 1327
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Modern Era
+  rotate: false
+  xy: 1797, 890
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Atomic Era
+  rotate: false
+  xy: 361, 1511
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Information Era
+  rotate: false
+  xy: 361, 1511
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Tribal Militia-Future Era
+  rotate: false
+  xy: 361, 1511
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
