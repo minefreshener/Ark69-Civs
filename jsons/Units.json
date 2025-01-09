@@ -102,9 +102,8 @@
 		"movement": 2,
 		"strength": 60,
 		"cost": 375,
-		"requiredTech": "Plastics",
+		"requiredTech": "Combined Arms",
 		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
 		"uniques": ["[+25]% Strength <after discovering [Mobile Tactics]>"],
 		"attackSound": "shot"
 	},
@@ -123,9 +122,10 @@
 	{
 		"name": "Mechanized Infantry",
 		"unitType": "Gunpowder",
-		"movement": 3,
+		"movement": 4,
 		"strength": 80,
 		"cost": 375,
+		"requiredResource": "Aluminum",
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Can move after attacking"],
 		"attackSound": "tankshot"
@@ -703,11 +703,10 @@
 		"movement": 2,
 		"strength": 63,
 		"cost": 375,
-		"requiredTech": "Plastics",
+		"requiredTech": "Combined Arms",
 		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-				"uniques": ["Can build [Land] improvements on tiles","[+25]% Strength <after discovering [Telecommunications]>",
-					"[+1] Sight <after discovering [Telecommunications]>"],
+		"uniques": ["Can build [Land] improvements on tiles","[+25]% Strength <after discovering [Telecommunications]>",
+			"[+1] Sight <after discovering [Telecommunications]>"],
 		"attackSound": "shot"
 	},
 	{
