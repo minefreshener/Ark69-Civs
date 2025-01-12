@@ -372,7 +372,7 @@
 		"innerColor": [132,132,130],
 		"uniqueName": "People of The Mountains",
 		"uniques": ["[+2 Food] from [Mountain] tiles [in all cities]","[+2 Culture] from [Mountain] tiles [in all cities]",
-			"Land units may cross [Mountain] tiles after the first [Great Artist] is earned","[+15]% Strength <within [1] tiles of a [Mountain]>"],
+			"Land units may cross [Mountain] tiles after the first [Great General] is earned","[+15]% Strength <within [1] tiles of a [Mountain]>"],
 		"cities": ["Kewie","A-Keldur","Zafulimu","Mesaonewe","Makserulie","Sawaie","Prisnanatie","Kiesowu","Kewu"]
 	},
 	{
