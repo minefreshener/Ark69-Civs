@@ -191,6 +191,18 @@
 		"requiredTech": "Guilds"
 	},
 	{
+		"name": "Metalworking District",
+		"replaces": "Amphitheater",
+		"uniqueTo": "Maraukai",
+		"culture": 3,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"requiredBuilding": "Monument",
+		"requiredNearbyImprovedResources": ["Gold","Silver","Copper","Iron","Aluminum"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Drama and Poetry"
+	},
+	{
 		"name": "Wulvar Den",
 		"replaces": "Garden",
 		"uniqueTo": "The Dolojel",
