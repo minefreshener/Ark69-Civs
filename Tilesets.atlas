@@ -355,7 +355,7 @@ TileSets/HexaRealm/Units/Armored Car
 TileSets/HexaRealm/Units/Camel Rifleman
   rotate: false
   xy: 1246, 1704
-  size: 64, 65
+  size: 64, 69
   orig: 64, 65
   offset: 0, 0
   index: -1
