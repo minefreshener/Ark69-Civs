@@ -129,65 +129,9 @@ TileSets/HexaRealm/Tiles/Rhinos+Pasture-Pillaged
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Armored Chariot
-  rotate: false
-  xy: 112, 533
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Chariot Gunner
-  rotate: false
-  xy: 1462, 1858
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Horseless Chariot
-  rotate: false
-  xy: 220, 689
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Elephant Archer
-  rotate: false
-  xy: 1081, 1287
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Battle Elephant
-  rotate: false
-  xy: 580, 884
-  size: 64, 62
-  orig: 64, 62
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Elephant Gunner
-  rotate: false
-  xy: 220, 1265
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Elephant Rifleman
-  rotate: false
-  xy: 1081, 1287
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Bazooka
   rotate: false
   xy: 670, 1918
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Militant
-  rotate: false
-  xy: 1509, 979
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -204,34 +148,6 @@ TileSets/HexaRealm/Units/Friendly Felasian-Modern Era
   xy: 1509, 979
   size: 64, 56
   orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Armored Car
-  rotate: false
-  xy: 1729, 1121
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Camel Cavalry
-  rotate: false
-  xy: 1174, 1908
-  size: 64, 70
-  orig: 64, 70
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Camel Rifleman
-  rotate: false
-  xy: 1174, 1908
-  size: 64, 70
-  orig: 64, 70
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Cataphract Camel
-  rotate: false
-  xy: 1822, 1914
-  size: 64, 64
-  orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rhino Knight
@@ -255,20 +171,6 @@ TileSets/HexaRealm/Units/Tewid Horseman
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Sasrama
-  rotate: false
-  xy: 865, 1497
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Lion Warrior
-  rotate: false
-  xy: 721, 1534
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Tribal Sergeant
   rotate: false
   xy: 721, 1534
@@ -290,27 +192,6 @@ TileSets/HexaRealm/Units/Dragoon
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Blue Army
-  rotate: false
-  xy: 958, 1890
-  size: 64, 65
-  orig: 64, 65
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Highwayman (KAP)
-  rotate: false
-  xy: 501, 1360
-  size: 64, 63
-  orig: 64, 63
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Highwayman (BOS)
-  rotate: false
-  xy: 501, 1360
-  size: 64, 63
-  orig: 64, 63
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Units/Western Alliance Cavalry
   rotate: false
   xy: 1297, 1385
@@ -323,27 +204,6 @@ TileSets/HexaRealm/Units/Rhino Cavalry
   xy: 1297, 1385
   size: 64, 63
   orig: 64, 63
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Honsir
-  rotate: false
-  xy: 580, 616
-  size: 64, 68
-  orig: 64, 68
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Warrior Druid
-  rotate: false
-  xy: 861, 1221
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Noble Longbowman
-  rotate: false
-  xy: 1153, 1448
-  size: 64, 56
-  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Tribal Militia
@@ -414,5 +274,172 @@ TileSets/HexaRealm/Units/Tribal Militia-Future Era
   xy: 361, 1511
   size: 64, 56
   orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Armored Chariot
+  rotate: false
+  xy: 1462, 1858
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+Tilesets3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Units/Lion Warrior
+  rotate: false
+  xy: 721, 1534
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Warrior Druid
+  rotate: false
+  xy: 861, 1221
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Noble Longbowman
+  rotate: false
+  xy: 1153, 1448
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sasrama
+  rotate: false
+  xy: 865, 1497
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Horseless Chariot
+  rotate: false
+  xy: 937, 1593
+  size: 72, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Anokrofeu
+  rotate: false
+  xy: 865, 1423
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Militant
+  rotate: false
+  xy: 577, 1447
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Blue Army
+  rotate: false
+  xy: 364, 273
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Armored Car
+  rotate: false
+  xy: 1700, 1321
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camel Rifleman
+  rotate: false
+  xy: 1246, 1704
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot Musketeer
+  rotate: false
+  xy: 1462, 1858
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Honsir
+  rotate: false
+  xy: 1318, 1689
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Cataphract Camel
+  rotate: false
+  xy: 1822, 1914
+  size: 64, 69
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Camel Cavalry
+  rotate: false
+  xy: 1174, 1908
+  size: 64, 73
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Musketeer
+  rotate: false
+  xy: 220, 1265
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Rifleman
+  rotate: false
+  xy: 220, 1265
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Mechanized Infantry
+  rotate: false
+  xy: 1729, 1121
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Elephant Archer
+  rotate: false
+  xy: 1081, 1287
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Warrior Druid
+  rotate: false
+  xy: 861, 1221
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Highwayman (KAP)
+  rotate: false
+  xy: 436, 1157
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Highwayman (BOS)
+  rotate: false
+  xy: 501, 1360
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Battle Elephant
+  rotate: false
+  xy: 580, 884
+  size: 64, 65
+  orig: 64, 62
   offset: 0, 0
   index: -1
