@@ -320,7 +320,7 @@ TileSets/HexaRealm/Units/Sasrama
 TileSets/HexaRealm/Units/Horseless Chariot
   rotate: false
   xy: 937, 1593
-  size: 72, 65
+  size: 75, 65
   orig: 69, 65
   offset: 0, 0
   index: -1
