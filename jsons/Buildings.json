@@ -75,27 +75,6 @@
 		"requiredTech": "Steel"
 	},
 	{
-		"name": "gunpowder Mill",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"production": 1,
-		"uniques": ["[+15]% Production when constructing [Ranged Gunpowder] units [in this city]","[+15]% Production when constructing [Gunpowder] units [in this city]"],
-		"requiredTech": "Gunpowder"
-	},
-	{
-		"name": "Gun Range",
-		"replaces": "gunpowder Mill",
-		"uniqueTo": "Zvongombe",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"production": 2,
-		"uniques": ["[+15]% Production when constructing [Gunpowder] units [in this city]",
-			"[+15]% Production when constructing [Ranged Gunpowder] units [in this city]",
-			"New [Gunpowder] units start with [15] Experience [in this city]",
-			"New [Ranged Gunpowder] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
-		"requiredTech": "Gunpowder"
-	},
-	{
 		"name": "Walls Of Zvongombe",
 		"replaces": "Heroic Epic",
 		"uniqueTo": "Zvongombe",
