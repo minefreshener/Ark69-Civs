@@ -1,1 +1,6 @@
-
+[
+    {
+		"name": "Necromancy",
+		"uniques": ["May capture killed [Military] units"]
+	}
+]
