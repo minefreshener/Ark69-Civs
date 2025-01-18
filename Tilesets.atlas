@@ -292,7 +292,7 @@ repeat: none
 TileSets/HexaRealm/Tiles/Magic Crystals
   rotate: false
   xy: 652, 1022
-  size: 78, 56
+  size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
@@ -306,7 +306,7 @@ TileSets/HexaRealm/Tiles/Magic CrystalsS
 TileSets/HexaRealm/Tiles/Magic CrystalsT
   rotate: false
   xy: 292, 602
-  size: 78, 56
+  size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
