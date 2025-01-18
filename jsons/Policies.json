@@ -21,12 +21,12 @@
             },
             {
                 "name": "Carbon Deposit Harvesting",
-                "uniques": ["[+1 Culture,+1 Production] from every [Coal]","[+1 Culture,+1 Production] from every [Oil]"],
+                "uniques": ["[+1 Culture, +1 Production] from every [Coal]","[+1 Culture, +1 Production] from every [Oil]"],
                 "row": 1,
                 "column": 4
             },
             {
-                "name": "Necromantic Burial",
+                "name": "Necromantic Burials",
                 "uniques": [
                     "[+1 Culture] per [5] population [in all cities]"
                 ],
