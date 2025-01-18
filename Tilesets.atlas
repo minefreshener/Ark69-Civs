@@ -289,6 +289,34 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/HexaRealm/Tiles/Magic Crystals
+  rotate: false
+  xy: 652, 1022
+  size: 74, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magic CrystalsS
+  rotate: false
+  xy: 1945, 1010
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magic CrystalsT
+  rotate: false
+  xy: 292, 602
+  size: 74, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Magic Crystals+Offshore Platform
+  rotate: false
+  xy: 1077, 1223
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Lion Warrior
   rotate: false
   xy: 721, 1534
