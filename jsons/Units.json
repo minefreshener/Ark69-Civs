@@ -372,12 +372,12 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "Fehk",
 		"movement": 2,
-		"strength": 20,
+		"strength": 23,
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+10]% Strength bonus for [Military] units within [1] tiles","Feudal","[+100]% maintenance costs","[+25]% Strength <after discovering [Metallurgy]>"],
 		"attackSound": "metalhit"
 	},
 		{
@@ -391,6 +391,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
+		"uniques": ["[+25]% Strength <after discovering [Metallurgy]>"],
 		"attackSound": "shot"
 	},
 	{
