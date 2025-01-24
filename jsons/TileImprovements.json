@@ -1,12 +1,13 @@
 [
-  	{
+	  {
 		"name": "Trading post",
-		"type": "Improvement",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Mountain","Marsh","Oasis"],
 		"gold": 1,
-		"turnsToBuild": 4,
+		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["Tile provides yield without assigned population <for [Hav Dolkur] Civilizations>", "Improvement","[+1 Gold] for each adjacent [City center]", "[+1 Gold] for each adjacent [Luxury resource]", "Cannot be built on [Resource] tiles", "Tile provides yield without assigned population", "Pillaging this improvement yields approximately [+18 Gold]", "Will not be replaced by automated units <hidden from users>"],
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]",
+			"Tile provides yield without assigned population <for [Hav Dolkur] Civilizations>","[+1 Gold] for each adjacent [City center]",
+			"[+1 Gold] for each adjacent [Luxury resource]"],
 		"shortcutKey": "T"
 	},
   	{
@@ -22,7 +23,7 @@
             "Pillaging this improvement yields approximately [+13 Gold]", "Tile provides yield without assigned population <for [Hav Dolkur] Civilizations>"],
 		"shortcutKey": "F"
 	},
-		{
+	{
 		"name": "Iji",
 		"uniqueTo": "Fehk",
 		"terrainsCanBeBuiltOn": ["Hill"],
